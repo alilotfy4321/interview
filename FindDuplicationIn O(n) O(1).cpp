@@ -1,5 +1,5 @@
 // C++ code to find duplication form (0->n-1) of element
-// duplicates in O(n) time
+// duplicates in O(n) time O(1)extra space
 #include <bits/stdc++.h>
 using namespace std;
 
