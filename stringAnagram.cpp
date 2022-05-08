@@ -13,7 +13,7 @@ bool stringAnagram(string s1,string s2){
 		for(int i=0 ; i<sizeS1 ; i++){
 			
 			indexS1=s1[i]-'a';
-		    indexS2=s2[i]-'a';
+		        indexS2=s2[i]-'a';
 			arrS1[indexS1]++;
 			arrS2[indexS2]++;
 			
