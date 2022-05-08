@@ -28,9 +28,7 @@ int main()
    
    findDuplication(arr,n);
       
-      
-
-     
-   
+ 
+	
     return 0;
 }
